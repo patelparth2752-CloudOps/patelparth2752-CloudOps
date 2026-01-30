@@ -26,7 +26,7 @@ Git & GitHub
 <br>Infrastructure as Code (ARM, Bicep)</br>
 
 </td> <td width="55%" valign="top">
-🔹 Featured Projects
+🔹 <b>Featured Projects</b>
 
 
 Secure Web Infrastructure on Azure
