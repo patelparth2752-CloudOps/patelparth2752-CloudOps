@@ -1,25 +1,53 @@
-### 🔹 Skills
-- Microsoft Azure (AZ-104)
-- Virtual Networks & NSG
-- Azure Monitor & Backup
-- Microsoft Entra ID (IAM)
-- RBAC & Access Control
-- Linux (Ubuntu), Nginx
-- GitHub & Git basics
+<table> <tr> <td width="45%" valign="top">
+🔹 Skills & Learning
 
-### 🔹 Featured Projects
+Cloud & Azure
 
-- **Secure Web Infrastructure on Azure**
-  - Linux VM with Nginx inside a secure Azure VNet
-  - Configured NSG rules, monitoring, backup, and RBAC
+Microsoft Azure (AZ-104)
 
-- **Azure IAM & RBAC Project**
-  - Created users and groups in Microsoft Entra ID
-  - Implemented group-based RBAC at resource group level
-  - Validated access using least privilege principles
- 
-  - ### 🔹 Currently Learning
-- Infrastructure as Code (ARM / Bicep)
+Virtual Networks, Subnets, NSG
+
+Azure Monitor, Alerts, Backup
+
+Microsoft Entra ID (IAM)
+
+RBAC and access control
+
+Systems & Tools
+
+Linux (Ubuntu)
+
+Nginx
+
+Git & GitHub
+
+Currently Learning
+
+Infrastructure as Code (ARM, Bicep)
+
+</td> <td width="55%" valign="top">
+🔹 Featured Projects
+Secure Web Infrastructure on Azure
+
+Deployed Linux VM with Nginx inside a secure Azure VNet
+
+Configured NSG rules, monitoring, backups, and RBAC
+
+Followed Azure security and operational best practices
+
+Azure IAM & RBAC Project
+
+Created users and groups in Microsoft Entra ID
+
+Implemented group-based RBAC at resource group level
+
+Validated least-privilege access model
+
+🔹 Connect with Me
+
+LinkedIn
+
+</td> </tr> </table>
 
 ### 🔹 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/parthpatel9586/)
