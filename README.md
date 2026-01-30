@@ -1,4 +1,4 @@
-📌 <b><i><h1>Overview</h1></i></b>
+📌<b><i><h1>Overview</h1></i></b>
 
 This repository showcases hands-on Azure Administrator (AZ-104) experience through real-world projects focused on designing, securing, monitoring, and managing Azure infrastructure using best practices.
 
