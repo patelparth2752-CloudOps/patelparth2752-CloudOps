@@ -24,7 +24,7 @@ Git & GitHub
 
 <b>Currently Learning</b>
 
-Infrastructure as Code (ARM, Bicep)
+<b><br>Infrastructure as Code (ARM, Bicep)</b></br>
 
 </td> <td width="55%" valign="top">
 🔹 Featured Projects
