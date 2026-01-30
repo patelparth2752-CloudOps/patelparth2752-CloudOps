@@ -1,5 +1,5 @@
 <table> <tr> <td width="45%" valign="top">
-🔹 Skills & Learning
+🔹 ## Skills & Learning
 
 Cloud & Azure
 
