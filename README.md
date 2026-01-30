@@ -1,7 +1,11 @@
-<table> <tr> <td width="45%" valign="top">
-🔹 **##**** Skills & Learning**
+📌 Overview
 
-Cloud & Azure
+This repository showcases hands-on Azure Administrator (AZ-104) experience through real-world projects focused on designing, securing, monitoring, and managing Azure infrastructure using best practices.
+
+<table> <tr> <td width="45%" valign="top">
+🔹 Skills
+
+Azure & Cloud
 
 Microsoft Azure (AZ-104)
 
@@ -11,7 +15,7 @@ Azure Monitor, Alerts, Backup
 
 Microsoft Entra ID (IAM)
 
-RBAC and access control
+RBAC and least-privilege access
 
 Systems & Tools
 
@@ -27,25 +31,15 @@ Infrastructure as Code (ARM, Bicep)
 
 </td> <td width="55%" valign="top">
 🔹 Featured Projects
+
 Secure Web Infrastructure on Azure
-
-Deployed Linux VM with Nginx inside a secure Azure VNet
-
-Configured NSG rules, monitoring, backups, and RBAC
-
-Followed Azure security and operational best practices
+Built and secured a Linux VM running Nginx within an Azure Virtual Network. Configured NSG rules, monitoring, backups, and RBAC aligned with Azure best practices.
 
 Azure IAM & RBAC Project
-
-Created users and groups in Microsoft Entra ID
-
-Implemented group-based RBAC at resource group level
-
-Validated least-privilege access model
+Implemented identity and access management using Microsoft Entra ID. Created users and groups, applied group-based RBAC at the resource group level, and validated least-privilege access.
 
 🔹 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/parthpatel9586/)
+LinkedIn
 
 </td> </tr> </table>
-
