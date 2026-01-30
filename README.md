@@ -4,7 +4,7 @@ This repository showcases hands-on Azure Administrator (AZ-104) experience throu
 
 <table> <tr> <td width="45%" valign="top">
 🔹 Skills
-<table> <tr> <td width="15%" valign="top">
+
 Azure & Cloud
 
 Microsoft Azure (AZ-104)
