@@ -41,6 +41,6 @@ Implemented identity and access management using Microsoft Entra ID. Created use
 
 🔹 Connect with Me
 
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/parthpatel9586/)
 
 </td> </tr> </table>
