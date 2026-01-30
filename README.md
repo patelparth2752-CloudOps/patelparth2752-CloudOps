@@ -23,7 +23,6 @@ Nginx
 Git & GitHub
 
 <b>Currently Learning</b>
-
 <br>Infrastructure as Code (ARM, Bicep)</br>
 
 </td> <td width="55%" valign="top">
