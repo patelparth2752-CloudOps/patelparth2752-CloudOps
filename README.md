@@ -3,7 +3,7 @@
 This repository showcases hands-on Azure Administrator (AZ-104) experience through real-world projects focused on designing, securing, monitoring, and managing Azure infrastructure using best practices.
 
 <table> <tr> <td width="45%" valign="top">
-🔹<h4>Skills</h4>
+🔹<b>Skills</b>
 
 Azure & Cloud
 
