@@ -1,16 +1,28 @@
-## Hi there 👋
+### 🔹 Skills
+- Microsoft Azure (AZ-104)
+- Virtual Networks & NSG
+- Azure Monitor & Backup
+- Microsoft Entra ID (IAM)
+- RBAC & Access Control
+- Linux (Ubuntu), Nginx
+- GitHub & Git basics
 
-<!--
-**patelparth2752-CloudOps/patelparth2752-CloudOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔹 Featured Projects
 
-Here are some ideas to get you started:
+- **Secure Web Infrastructure on Azure**
+  - Linux VM with Nginx inside a secure Azure VNet
+  - Configured NSG rules, monitoring, backup, and RBAC
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Azure IAM & RBAC Project**
+  - Created users and groups in Microsoft Entra ID
+  - Implemented group-based RBAC at resource group level
+  - Validated access using least privilege principles
+ 
+  - ### 🔹 Currently Learning
+- Azure Identity & Governance
+- Azure Monitoring & Alerts
+- Infrastructure as Code (ARM / Bicep)
+
+### 🔹 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/parthpatel9586/)
+
