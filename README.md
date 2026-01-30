@@ -17,8 +17,7 @@ Microsoft Entra ID (IAM)
 
 RBAC and least-privilege access
 
-Systems & Tools
-
+<b><font size=18>Systems & Tools</b></font size>
 Linux (Ubuntu)
 
 Nginx
