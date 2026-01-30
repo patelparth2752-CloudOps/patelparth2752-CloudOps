@@ -17,14 +17,12 @@ Microsoft Entra ID (IAM)
 
 RBAC and least-privilege access
 
-<b><font size=18>Systems & Tools</b></font size>
+<b>Systems & Tools</b>
 Linux (Ubuntu)
-
 Nginx
-
 Git & GitHub
 
-Currently Learning
+<b>Currently Learning</b>
 
 Infrastructure as Code (ARM, Bicep)
 
