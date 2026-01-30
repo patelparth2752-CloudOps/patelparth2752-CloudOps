@@ -35,7 +35,7 @@ Built and secured a Linux VM running Nginx within an Azure Virtual Network. Conf
 Azure IAM & RBAC Project
 Implemented identity and access management using Microsoft Entra ID. Created users and groups, applied group-based RBAC at the resource group level, and validated least-privilege access.
 
-🔹 Connect with Me
+🔹 <b>Connect with Me</b>
 
 [LinkedIn](https://www.linkedin.com/in/parthpatel9586/)
 
