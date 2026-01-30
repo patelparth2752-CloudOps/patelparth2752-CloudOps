@@ -19,8 +19,6 @@
   - Validated access using least privilege principles
  
   - ### 🔹 Currently Learning
-- Azure Identity & Governance
-- Azure Monitoring & Alerts
 - Infrastructure as Code (ARM / Bicep)
 
 ### 🔹 Connect with Me
